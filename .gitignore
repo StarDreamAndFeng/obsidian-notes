@@ -1,0 +1,17 @@
+# Obsidian
+# 完全忽略整个 .obsidian 目录（不在仓库中保存任何 Obsidian 设置）
+.obsidian/
+
+# Obsidian 回收站
+.trash/
+
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+*~
