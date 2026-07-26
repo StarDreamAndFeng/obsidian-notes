@@ -6,13 +6,13 @@ source: https://github.com/sumruler/obsidian-theme-phycat
 
 # 🐱 Obsidian Phycat 主题
 
-![Version](/000-仓库管理/020-附件与资源/images/obsidian-theme-phycat.svg) ![Downloads](/000-仓库管理/020-附件与资源/images/obsidian-theme-phycat-total.svg) ![License](/000-仓库管理/020-附件与资源/images/obsidian-theme-phycat-mit.svg)
+![Version](/000-仓库管理/020-附件与资源/obsidian-theme-phycat.svg) ![Downloads](/000-仓库管理/020-附件与资源/obsidian-theme-phycat-total.svg) ![License](/000-仓库管理/020-附件与资源/obsidian-theme-phycat-mit.svg)
 
 **Phycat** 是一款充满活力、现代且高度可定制的 Obsidian 主题。它采用"玻璃拟态 (Glassmorphism)"美学设计，配色经过精心调校，旨在提供专注且舒适的视觉体验。
 
 > 🎨 **设计理念**：极简的结构，极致的个性。
 
-![Theme Screenshot](/000-仓库管理/020-附件与资源/images/screenshot-hd.png)
+![Theme Screenshot](/000-仓库管理/020-附件与资源/screenshot-hd.png)
 
 ## ✨ 主题特性
 
