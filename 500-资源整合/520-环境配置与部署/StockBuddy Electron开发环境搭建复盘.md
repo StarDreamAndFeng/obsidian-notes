@@ -7,10 +7,12 @@ tags:
   - 桌面开发
   - better-sqlite3
 date: 2026-08-24
+source: https://github.com/hawx1993/stcok-buddy
 ---
 
 # StockBuddy 开发环境搭建复盘
 
+> **项目地址**：[https://github.com/hawx1993/stcok-buddy](https://github.com/hawx1993/stcok-buddy)
 > 记录从 `pnpm install` 到 `pnpm dev` 成功弹出 Electron 窗口的全过程，踩过的坑、根因、最终解决方案都沉淀在这里。
 > 适用版本：StockBuddy `0.8.0`，Electron `43.1.0`，Windows 11，pnpm + Node 22。
 
