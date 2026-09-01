@@ -82,7 +82,7 @@ description: 生成 Ian 风格的中文正文配图。用于用户要求为中�
 如果用户在 workspace 内工作，把最终图复制到：
 
 ```text
-assets/<article-slug>-illustrations/
+/000-仓库管理/020-附件与资源/<article-slug>-illustrations/
 ```
 
 按顺序命名：
