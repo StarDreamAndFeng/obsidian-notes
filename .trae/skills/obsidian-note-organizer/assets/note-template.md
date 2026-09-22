@@ -2,7 +2,7 @@
 tags:
   - 标签1
   - 标签2
-date: YYYY-MM-DD
+date: YYYY-MM-DD   # 写整理动作的当日日期，与正文里的 published / range 无关
 ---
 
 # 笔记标题
